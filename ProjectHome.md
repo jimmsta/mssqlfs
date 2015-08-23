@@ -1,0 +1,1 @@
+Using MS SQL database as storage accessible as mounted disk using Dokan FUSE technology.
